@@ -1,0 +1,12 @@
+Dataset/Input,B,C,H,W,Emax,MAE,matches_numpy_ref,time_s
+MNIST / sample,1,1,28,28,0.0e+00,0.0e+00,True,0.00
+CIFAR-10 / sample,1,3,32,32,0.0e+00,0.0e+00,True,0.01
+Synthetic fmap1,2,1,16,16,0.0e+00,0.0e+00,True,0.00
+Synthetic fmap2,2,3,16,16,0.0e+00,0.0e+00,True,0.01
+Synthetic fmap3,2,8,16,16,0.0e+00,0.0e+00,True,0.02
+Synthetic fmap4,2,16,16,16,0.0e+00,0.0e+00,True,0.04
+Synthetic fmap5,2,32,16,16,0.0e+00,0.0e+00,True,0.06
+Synthetic fmap6,2,64,16,16,0.0e+00,0.0e+00,True,0.09
+Synthetic fmap7,2,128,16,16,0.0e+00,0.0e+00,True,0.17
+Synthetic fmap8,2,256,16,16,0.0e+00,0.0e+00,True,0.32
+Synthetic fmap9,2,500,16,16,0.0e+00,0.0e+00,True,0.62
