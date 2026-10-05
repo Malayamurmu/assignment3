@@ -1,4 +1,4 @@
-"""Builds report.pdf from results.csv (run run_experiments.py first)."""
+""Builds report.pdf from results.csv (run run_experiments.py first).""
 import csv
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
