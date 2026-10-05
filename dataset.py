@@ -1,5 +1,5 @@
-"""Input tensors in BCHW. Real datasets if torchvision + internet exist,
-otherwise clearly-labelled synthetic stand-ins of identical shape."""
+""Input tensors in BCHW. Real datasets if torchvision + internet exist,
+otherwise clearly-labelled synthetic stand-ins of identical shape.""
 import numpy as np
 
 
