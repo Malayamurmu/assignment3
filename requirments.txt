@@ -1,0 +1,4 @@
+numpy
+reportlab        # only for make_report.py
+# torchvision    # optional: real MNIST / CIFAR-10
+pytest           # optional
