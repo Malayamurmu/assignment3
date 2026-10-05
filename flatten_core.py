@@ -1,4 +1,4 @@
-"""
+""
 Core algorithms: BCHW  <->  B x (C*H*W), implemented from scratch.
 
 NO reshape()/view()/flatten()/ravel() anywhere in this file.
@@ -13,7 +13,7 @@ Row-major (C-order) address mapping, for a fixed batch index b:
     r = j %  (H*W)
     h = r // W
     w = r %  W
-"""
+""
 import numpy as np
 
 
