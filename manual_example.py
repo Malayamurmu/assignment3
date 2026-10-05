@@ -1,4 +1,4 @@
-"""Prints the hand-worked mapping for B=1, C=2, H=2, W=3."""
+""Prints the hand-worked mapping for B=1, C=2, H=2, W=3.""
 import numpy as np
 from flatten_core import flat_index, bchw_to_bchw_flat
 
