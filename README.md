@@ -10,6 +10,7 @@
 | `test_flatten.py` | Tests (bijection, round trip, numpy reference check) |
 | `make_report.py` | Builds `report.pdf` from `results.csv` |
 
+
 ## Run
 ```
 pip install -r requirements.txt
